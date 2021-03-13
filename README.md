@@ -29,7 +29,6 @@ Different class for different kind of work all are import from predefined packag
 In this program, I used “JFrame, JLabel, JButton, and JTextField”.
 I create text Field, frame, label and button using java swing classes and color class of java swing. In addition, set their size, color, width and height by using their methods.
 And apply actionPerform() method on frame to perform action in add button, text field , label and all such functions.
- Here are some Screenshots of program:
  
  
 
